@@ -5,5 +5,3 @@ def say_hello(name, language="Ruby")
 end
 
 say_hello("Kent Back")
-
-end
